@@ -134,22 +134,4 @@ flowchart TD
 
 
 
-## Recommended Repository Structure
-
-```
-Nexus-Demo/
-├── README.md                
-├── Jenkinsfile              
-├── pom.xml                  
-├── settings.xml             
-├── src/                     
-│   ├── main/java/           
-│   └── test/java/           
-├── scripts/                 
-│   ├── jenkins.sh           
-│   └── docker.sh            
-├── .gitignore               
-└── docs/                    
-    └── ci-cd-diagram.md     
-```
 
